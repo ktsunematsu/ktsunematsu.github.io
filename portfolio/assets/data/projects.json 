@@ -1,0 +1,21 @@
+以下は、`/portfolio/assets/data/projects.json` の内容です。
+
+{
+  "projects": [
+    {
+      "title": "プロジェクト1",
+      "description": "このプロジェクトは、ウェブサイトのデザインと開発を行ったものです。",
+      "url": "https://example.com/project1"
+    },
+    {
+      "title": "プロジェクト2",
+      "description": "このプロジェクトは、モバイルアプリの開発を行ったものです。",
+      "url": "https://example.com/project2"
+    },
+    {
+      "title": "プロジェクト3",
+      "description": "このプロジェクトは、データ分析のためのツールを作成したものです。",
+      "url": "https://example.com/project3"
+    }
+  ]
+}
